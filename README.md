@@ -1,4 +1,4 @@
-# Num Word Conversion
+# Num to Word Converter
 
 Small, single-file C program to convert between English words and numeric values.
 
